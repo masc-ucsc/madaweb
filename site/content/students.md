@@ -13,6 +13,7 @@ Current Students
 * [Eren Dogan](https://erendn.github.io/)
 * [Jessica Dagostini](https://jessdagostini.github.io/)
 * [Tyler Sheaves](https://tylersheaves.com/)
+* [Amogh Lonkar](https://users.soe.ucsc.edu/~alonkar/)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -21,7 +22,6 @@ Current Students
 * Nilufar Ferdous
 * Jesse Cirimelli-Low
 * Yuanpeng Liao
-* Amogh Lonkar
 * Haoyuan Wang
 * Alex Lee
 * Omkar Lonkar
