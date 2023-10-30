@@ -14,6 +14,7 @@ Current Students
 * [Jessica Dagostini](https://jessdagostini.github.io/)
 * [Tyler Sheaves](https://tylersheaves.com/)
 * [Amogh Lonkar](https://users.soe.ucsc.edu/~alonkar/)
+* [Ruijie “Ridger” Zhu](https://ruijie-zhu.github.io/)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -29,7 +30,6 @@ Current Students
 * Surim Oh
 * Bugra Önal
 * Assel Kembay
-* Ruijie “Ridger” Zhu
 * Binh Nguyen
 
 #### Masters
