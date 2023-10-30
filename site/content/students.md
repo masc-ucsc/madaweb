@@ -28,6 +28,9 @@ Current Students
 * Inje Kim
 * Surim Oh
 * Bugra Önal
+* Assel Kembay
+* Ruijie “Ridger” Zhu
+* Binh Nguyen
 
 #### Masters
 * Yifan Zou
