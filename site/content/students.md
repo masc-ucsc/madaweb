@@ -31,21 +31,25 @@ Current Students
 * Bugra Önal
 * Assel Kembay
 * Binh Nguyen
+* Ella Lehavi
 
 #### Masters
-* Yifan Zou
-* Mike Anjomani
 * Mingsheng Xu
-* Mark Zakharov
 * Nishant Khanorkar
 * Vincent Titterton
 * Micaela Kapp
 * Kenneth Mayer
 * Brian Metz
 * Yusu Wang
+* Gary Mejia
+* Mitchell Tansey
+* Phillip Marlowe
+* Aditya Bedekar
 
 #### Undergraduate
-* Edwin Rojas-Torres
 * John Drab
 * Thomas Liao
 * Jinsung Park
+* Andrew Barth-Yi
+* Arshan Rashidi
+* Jackson Friday
