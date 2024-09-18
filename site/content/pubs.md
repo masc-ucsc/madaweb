@@ -3,6 +3,13 @@ title = "Publications"
 id = "single"
 bgImage = "img/trees.jpg"
 +++
+## 2024
+
+C. Drewes, O. Weng, A. Meza, A. Althoff, D. Kohlbrenner, R. Kastner, and D. Richmond, [Pentimento: Data Remanence in Cloud FPGAs.](https://doi.org/10.1145/3620665.3640355)** *ASPLOS (2), Volume 2, 862–878, 2024.
+https://doi.ieeecomputersociety.org/10.1109/ISCA59077.2024.00061
+
+Dai Cheol Jung, Max Ruttenberg, Paul Gao, Scott Davidson, Daniel Petrisko and Kangli Li and Aditya K Kamath and Lin Cheng and Shaolin Xie and Peitian Pan and Zhongyuan Zhao and Zichao Yue and BVeluri andhav and Sripathi Muralitharan and Adrian Sampson and Andrew Lumsdaine and Zhiru Zhang and Christopher Batten and Mark Oskin and Dustin Richmond and Michael Bedford Taylor, **[Scalable, Programmable and Dense: The HammerBlade Open-Source RISC-V Manycore](https://doi.ieeecomputersociety.org/10.1109/ISCA59077.2024.00061)** *ISCA*, 770-784, 2024.
+
 ## 2023
 * Lin Cheng, Max Ruttenberg, Dai Cheol Jung, Dustin Richmond, Michael B. Taylor, Mark Oskin, Christopher Batten, **[Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories.](https://doi.org/10.1145/3582016.3582020)** *ASPLOS (3)*, 46-58, 2023.
 
