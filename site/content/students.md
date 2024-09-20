@@ -16,6 +16,7 @@ Current Students
 * [Amogh Lonkar](https://users.soe.ucsc.edu/~alonkar/)
 * [Ruijie “Ridger” Zhu](https://ruijie-zhu.github.io/)
 * [Arjun Vedantham](https://arjun.vedantham.xyz)
+* [Surim Oh](https://5surim.github.io/)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -28,7 +29,6 @@ Current Students
 * Alex Lee
 * Omkar Lonkar
 * Inje Kim
-* Surim Oh
 * Bugra Önal
 * Assel Kembay
 * Binh Nguyen
@@ -45,8 +45,9 @@ Current Students
 * Mitchell Tansey
 * Phillip Marlowe
 * Aditya Bedekar
+* Dylan Brown
 
 #### Undergraduate
+* [Arshan Rashidi](https://nahsra58.github.io/)
 * Andrew Barth-Yi
-* Arshan Rashidi
 * Jackson Friday
