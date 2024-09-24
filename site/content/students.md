@@ -17,6 +17,7 @@ Current Students
 * [Ruijie “Ridger” Zhu](https://ruijie-zhu.github.io/)
 * [Arjun Vedantham](https://arjun.vedantham.xyz)
 * [Surim Oh](https://5surim.github.io/)
+* [Omkar Lonkar](https://olonkar29.github.io/)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -27,7 +28,6 @@ Current Students
 * Yuanpeng Liao
 * Haoyuan Wang
 * Alex Lee
-* Omkar Lonkar
 * Inje Kim
 * Bugra Önal
 * Assel Kembay
