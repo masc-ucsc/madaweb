@@ -53,3 +53,8 @@ portfolio:
     home: https://campusdirectory.ucsc.edu/cd_detail?uid=sanath
     description: >
      VLSI design, EDA tool development, single flux quantum logic
+  - category: Group
+    name: Marcelo Orenes-Vera
+    home: https://morenes.github.io
+    description: >
+      parallel computing, formal verification, open-source hardware, design automation, AI acceleration, HPC
