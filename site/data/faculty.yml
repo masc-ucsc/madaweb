@@ -28,6 +28,11 @@ portfolio:
     home: https://people.ucsc.edu/~hlitz/
     description: >
       computer architecture, operating systems, storage systems, machine learning, hardware design, bioinformatics accelerators
+  - category: Group
+    name: Marcelo Orenes-Vera
+    home: https://morenes.github.io
+    description: >
+      parallel computing, formal verification, open-source hardware, design automation, AI acceleration, high-performance computing
   - category: Faculty
     name: Jose Renau
     home: https://users.soe.ucsc.edu/~renau/
@@ -44,6 +49,11 @@ portfolio:
     description: >
       concurrency (semantics, testing, verification), heterogeneous systems (GPUs, accelerators), compilers (portability, optimizations)
   - category: Group
+    name: Abel Souza
+    home: https://asouza.io/
+    description: >
+      distributed systems, operating systems, cloud computing, sustainable computing, embedded computing boards
+  - category: Group
     name: Yuanchao Xu
     home: https://yuanchaoxu6.github.io
     description: >
@@ -53,8 +63,3 @@ portfolio:
     home: https://campusdirectory.ucsc.edu/cd_detail?uid=sanath
     description: >
      VLSI design, EDA tool development, single flux quantum logic
-  - category: Group
-    name: Marcelo Orenes-Vera
-    home: https://morenes.github.io
-    description: >
-      parallel computing, formal verification, open-source hardware, design automation, AI acceleration, HPC
