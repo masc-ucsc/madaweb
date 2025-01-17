@@ -4,6 +4,11 @@ title: UCSC HSC Faculty
 
 portfolio:
   - category: Faculty
+    name: Shiva Abbaszadeh
+    home: https://campusdirectory.ucsc.edu/cd_detail?uid=sabbasza
+    description: >
+      mixed-signal circuit design, imaging detector technology, instrumentation for emission tomography (PET and SPECT)
+  - category: Faculty
     name: Scott Beamer
     home: https://scottbeamer.net
     description: >
