@@ -18,6 +18,8 @@ Current Students
 * [Arjun Vedantham](https://arjun.vedantham.xyz)
 * [Surim Oh](https://5surim.github.io/)
 * [Omkar Lonkar](https://olonkar29.github.io/)
+* [Ella Lehavi](https://elehavi.github.io/)
+* [Jayaraj J](https://jyrj.me)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -32,16 +34,16 @@ Current Students
 * Bugra Önal
 * Assel Kembay
 * Binh Nguyen
-* Ella Lehavi
 
 #### Masters
-* Mingsheng Xu
+* [Gary Mejia](https://gmejiamtz.github.io/)
+* [Andrew Barth-Yi](https://aebarthyi.github.io)
+*  Mingsheng Xu
 * Vincent Titterton
 * Micaela Kapp
 * Kenneth Mayer
 * Brian Metz
 * Yusu Wang
-* Gary Mejia
 * Mitchell Tansey
 * Phillip Marlowe
 * Aditya Bedekar
@@ -49,5 +51,4 @@ Current Students
 
 #### Undergraduate
 * [Arshan Rashidi](https://nahsra58.github.io/)
-* Andrew Barth-Yi
 * Jackson Friday
