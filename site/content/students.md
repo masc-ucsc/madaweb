@@ -36,8 +36,8 @@ Current Students
 * Binh Nguyen
 
 #### Masters
-*[Gary Mejia](https://gmejiamtz.github.io/)
-*[Andrew Barth-Yi](https://aebarthyi.github.io)
+* [Gary Mejia](https://gmejiamtz.github.io/)
+* [Andrew Barth-Yi](https://aebarthyi.github.io)
 *  Mingsheng Xu
 * Vincent Titterton
 * Micaela Kapp
