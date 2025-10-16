@@ -33,6 +33,8 @@ Doctorate
 * Bin Wu
 * [Chandranil Chakraborttii (Trinity College)](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1480870)
 * [Nursultan Kabylkas (Nazarbayev University)](https://research.nu.edu.kz/en/persons/nursultan-kabylkas)
+* [Minghao Xie](https://users.soe.ucsc.edu/~mhxie/)
+* [Lokesh N. Jaliminche](https://users.soe.ucsc.edu/~lokeshjaliminche/)
 
 
 Masters
@@ -95,7 +97,7 @@ Masters
 * Sachet Mittal ('20)
 * [Jason Vranek](https://www.linkedin.com/in/jason-vranek/) ('20) Portal AI
 * [Thomas Nijssen](https://www.linkedin.com/in/thomas-nijssen/) ('21) NVIDIA
-* [Sam Crow](https://www.linkedin.com/in/samuel-crow-615a65167/)
+* [Sam Crow](https://www.linkedin.com/in/samuel-crow-615a65167/) ('24) NVIDIA
 * [Calvin Keyes](https://www.linkedin.com/in/calvin-keyes/)
 * [Peter Braun](https://www.linkedin.com/in/petervbraun/) ARM
 * [Sachet Mittal](https://www.linkedin.com/in/sachet-mittal/)
@@ -106,6 +108,11 @@ Masters
 * [Nishant Khanorkar](https://www.linkedin.com/in/khanorkar-nishant/) ('24) Meta
 * Maxwell Bradley
 * Kartik Rajesh Kain
+* Lee-Way Wang ('25)
+* [Gary Mejia](https://gmejiamtz.github.io/) ('24)
+* Mingsheng Xu
+* Mitchell Tansey
+
 
 
 Undergraduate Researchers

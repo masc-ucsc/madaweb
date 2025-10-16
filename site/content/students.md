@@ -8,8 +8,6 @@ Current Students
 ------------------
 #### Doctoral
 * [Saba Jamilan](https://users.soe.ucsc.edu/~sjamilan/)
-* [Minghao Xie](https://users.soe.ucsc.edu/~mhxie/)
-* [Lokesh N. Jaliminche](https://users.soe.ucsc.edu/~lokeshjaliminche/)
 * [Eren Dogan](https://erendn.github.io/)
 * [Jessica Dagostini](https://jessdagostini.github.io/)
 * [Tyler Sheaves](https://tylersheaves.com/)
@@ -20,6 +18,9 @@ Current Students
 * [Omkar Lonkar](https://olonkar29.github.io/)
 * [Ella Lehavi](https://elehavi.github.io/)
 * [Jayaraj J](https://jyrj.me)
+* [Eddy Abban](https://www.linkedin.com/in/eddyabban7/)
+* [Aditya Bedekar](https://adityabedekar17.github.io/)
+* [Ethan Sifferman](https://www.linkedin.com/in/sifferman/)
 * Bhawandeep Singh
 * Farzaneh Rabiei
 * Hadir Khan
@@ -34,21 +35,33 @@ Current Students
 * Bugra Önal
 * Assel Kembay
 * Binh Nguyen
+* Wajid Ali
+* Chandrashis Mazumdar
+* Sun Tanaka
 
 #### Masters
-* [Gary Mejia](https://gmejiamtz.github.io/)
 * [Andrew Barth-Yi](https://aebarthyi.github.io)
-*  Mingsheng Xu
+* [Raphael Huang](https://rphlhuang.github.io/)
 * Vincent Titterton
 * Micaela Kapp
 * Kenneth Mayer
 * Brian Metz
 * Yusu Wang
-* Mitchell Tansey
 * Phillip Marlowe
-* Aditya Bedekar
 * Dylan Brown
+* Sean Li
+
 
 #### Undergraduate
 * [Arshan Rashidi](https://nahsra58.github.io/)
 * Jackson Friday
+* Nicholas Gaither
+* Carlos Rojas
+* Caleb Lin
+* Aditya Kumar
+* Marco Frank
+* Ronald Prasad
+* Cal Boggan
+* Andrea Arreortua
+* Sean Manger
+* Luis Rocha
