@@ -33,11 +33,6 @@ portfolio:
     home: https://people.ucsc.edu/~hlitz/
     description: >
       computer architecture, operating systems, storage systems, machine learning, hardware design, bioinformatics accelerators
-  - category: Group
-    name: Marcelo Orenes-Vera
-    home: https://morenes.github.io
-    description: >
-      parallel computing, formal verification, open-source hardware, design automation, AI acceleration, high-performance computing
   - category: Faculty
     name: Jose Renau
     home: https://users.soe.ucsc.edu/~renau/
@@ -47,7 +42,7 @@ portfolio:
     name: Dustin Richmond
     home: https://www.dustinrichmond.com
     description: >
-      computer architecture, open-source hardware design, graph algorithms, design automation, design effort metrics and models, FPGA/ASIC design, hardware security, applications of hardware system design
+      computer architecture, open-source hardware design, FPGA/ASIC design, hardware security
   - category: Group
     name: Tyler Sorensen
     home: https://users.soe.ucsc.edu/~tsorensen/
