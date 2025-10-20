@@ -27,20 +27,19 @@ Doctorate
 * Rafael Trapani Possignolo ('18) Intel
 * [Hany Fahmy](https://www.linkedin.com/in/hany-fahmy-370b2836/)
 * [Ramesh Jayaraman](https://www.linkedin.com/in/rkjayara/)
-* [Akash Sridhar](https://www.linkedin.com/in/akashsridhar/)
-* [Sheng Hong Wang](https://www.linkedin.com/in/sheng-hong-wang-02b2a0137/)
-* [Yuanjiang Ni](https://www.linkedin.com/in/yuanjiang-ni-3928aa142/)
-* Bin Wu
-* [Chandranil Chakraborttii (Trinity College)](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1480870)
-* [Nursultan Kabylkas (Nazarbayev University)](https://research.nu.edu.kz/en/persons/nursultan-kabylkas)
-* [Minghao Xie](https://users.soe.ucsc.edu/~mhxie/)
-* [Lokesh N. Jaliminche](https://users.soe.ucsc.edu/~lokeshjaliminche/)
+* [Akash Sridhar ('20) Qualcomm](https://www.linkedin.com/in/akashsridhar/)
+* [Chandranil Chakraborttii ('21) Trinity College](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1480870)
+* [Sheng Hong Wang ('22) Apple](https://www.linkedin.com/in/sheng-hong-wang-02b2a0137/)
+* [Yuanjiang Ni ('22)](https://www.linkedin.com/in/yuanjiang-ni-3928aa142/)
+* [Nursultan Kabylkas ('22) Nazarbayev University](https://research.nu.edu.kz/en/persons/nursultan-kabylkas) 
+* [Minghao Xie ('24) Anyscale](https://users.soe.ucsc.edu/~mhxie/) 
+* [Lokesh N. Jaliminche ('25) Aerospike](https://users.soe.ucsc.edu/~lokeshjaliminche/) 
 
 
 Masters
 -------
-* Shantanu Kale. ('06) Harmonic Inc
-* Liying Su. ('06) Intel
+* Shantanu Kale ('06) Harmonic Inc
+* Liying Su ('06) Intel
 * David Van Der Bokke. ('06) Tellme Networks
 * Suraj N. Kurapati ('07) NVIDIA
 * Angela Schmid ('07) Intel
