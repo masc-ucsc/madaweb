@@ -25,7 +25,6 @@ Doctorate
 * Daphne Gorman ('18) Apple
 * Haven Skinner ('18) BigStream
 * Rafael Trapani Possignolo ('18) Intel
-* [Hany Fahmy](https://www.linkedin.com/in/hany-fahmy-370b2836/)
 * [Ramesh Jayaraman](https://www.linkedin.com/in/rkjayara/)
 * [Akash Sridhar ('20) Qualcomm](https://www.linkedin.com/in/akashsridhar/)
 * [Chandranil Chakraborttii ('21) Trinity College](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1480870)
@@ -94,6 +93,8 @@ Masters
 * Huijie Pan ('20)
 * Hunter Coffman ('20)
 * Sachet Mittal ('20)
+* Bin Wu
+* [Hany Fahmy](https://www.linkedin.com/in/hany-fahmy-370b2836/)
 * [Jason Vranek](https://www.linkedin.com/in/jason-vranek/) ('20) Portal AI
 * [Thomas Nijssen](https://www.linkedin.com/in/thomas-nijssen/) ('21) NVIDIA
 * [Sam Crow](https://www.linkedin.com/in/samuel-crow-615a65167/) ('24) NVIDIA
