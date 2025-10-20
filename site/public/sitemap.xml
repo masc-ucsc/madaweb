@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//hsc.ucsc.edu/alumni/</loc>
+    <loc>//localhost:1313/alumni/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/faculty/</loc>
+    <loc>//localhost:1313/faculty/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/seminar/</loc>
+    <loc>//localhost:1313/seminar/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/pubs/</loc>
+    <loc>//localhost:1313/pubs/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/sponsors/</loc>
+    <loc>//localhost:1313/sponsors/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/students/</loc>
+    <loc>//localhost:1313/students/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>//hsc.ucsc.edu/</loc>
+    <loc>//localhost:1313/</loc>
   </url>
 </urlset>
