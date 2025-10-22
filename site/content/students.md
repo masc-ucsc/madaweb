@@ -11,7 +11,6 @@ Current Students
 * [Eren Dogan](https://erendn.github.io/)
 * [Jessica Dagostini](https://jessdagostini.github.io/)
 * [Tyler Sheaves](https://tylersheaves.com/)
-* [Amogh Lonkar](https://users.soe.ucsc.edu/~alonkar/)
 * [Ruijie “Ridger” Zhu](https://ruijie-zhu.github.io/)
 * [Arjun Vedantham](https://arjun.vedantham.xyz)
 * [Surim Oh](https://5surim.github.io/)
@@ -42,7 +41,6 @@ Current Students
 #### Masters
 * [Andrew Barth-Yi](https://aebarthyi.github.io)
 * [Raphael Huang](https://rphlhuang.github.io/)
-* Vincent Titterton
 * Micaela Kapp
 * Kenneth Mayer
 * Brian Metz

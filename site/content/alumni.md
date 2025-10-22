@@ -31,7 +31,8 @@ Doctorate
 * [Sheng Hong Wang ('22) Apple](https://www.linkedin.com/in/sheng-hong-wang-02b2a0137/)
 * [Yuanjiang Ni ('22)](https://www.linkedin.com/in/yuanjiang-ni-3928aa142/)
 * [Nursultan Kabylkas ('22) Nazarbayev University](https://research.nu.edu.kz/en/persons/nursultan-kabylkas) 
-* [Minghao Xie ('24) Anyscale](https://users.soe.ucsc.edu/~mhxie/) 
+* [Minghao Xie ('24) Anyscale](https://users.soe.ucsc.edu/~mhxie/)
+* [Amogh Lonkar ('24) NVIDIA](https://users.soe.ucsc.edu/~alonkar/) 
 * [Lokesh N. Jaliminche ('25) Aerospike](https://users.soe.ucsc.edu/~lokeshjaliminche/) 
 
 
@@ -102,10 +103,11 @@ Masters
 * [Peter Braun](https://www.linkedin.com/in/petervbraun/) ARM
 * [Sachet Mittal](https://www.linkedin.com/in/sachet-mittal/)
 * [Priyanka Dutta](https://www.linkedin.com/in/priyankadutta09/) ('23) Apple
-* [Tanuj Gupta](https://www.linkedin.com/in/tanuj-gupta-57b869168/) ('23) MetaJungle
+* [Tanuj Gupta](https://www.linkedin.com/in/tanuj-gupta-57b869168/) ('23) Meta
 * [Nilesh Negi](https://www.linkedin.com/in/nileshnegi/) ('23) AMD
 * [Hunter Nichols](https://hznichol.wordpress.com/)
 * [Nishant Khanorkar](https://www.linkedin.com/in/khanorkar-nishant/) ('24) Meta
+* Vincent Titterton ('24)
 * Maxwell Bradley
 * Kartik Rajesh Kain
 * Lee-Way Wang ('25)

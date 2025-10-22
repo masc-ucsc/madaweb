@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCSC Hardware Systems Collective</title>
-    <link>//localhost:1313/</link>
+    <link>//hsc.ucsc.edu/</link>
     <description>Recent content on UCSC Hardware Systems Collective</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//hsc.ucsc.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alumni</title>
-      <link>//localhost:1313/alumni/</link>
+      <link>//hsc.ucsc.edu/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/alumni/</guid>
-      <description>Doctorate Cyrus Bazeghi (&amp;lsquo;07) Microsoft Javi Martinez (&amp;lsquo;07) Qualcomm Sangeetha Nair (&amp;lsquo;11) Intel Sean Halle (&amp;lsquo;12) PostDoc/INRIA Seokjoong Kim (&amp;lsquo;12) Xilinx Xuchu Hu (&amp;lsquo;12) Cadence Design Systems David Munday (&amp;lsquo;13) Google Ehsan Ardestani (&amp;lsquo;13) Facebook Sheldon Logan (&amp;lsquo;13) Google Madan Das (&amp;lsquo;15) Mentor Graphics Alamelu Sankaranarayanan (&amp;lsquo;16) Gabriel Southern (&amp;lsquo;16) Intel Elnaz Ebrahimi (&amp;lsquo;17) Huawei Rajsaktish Sankaranarayanan (&amp;lsquo;17) Intel Riadul Islam (&amp;lsquo;17) Assistant Professor, UMBC Daphne Gorman (&amp;lsquo;18) Apple Haven Skinner (&amp;lsquo;18) BigStream Rafael Trapani Possignolo (&amp;lsquo;18) Intel Ramesh Jayaraman Akash Sridhar (&amp;lsquo;20) Qualcomm Chandranil Chakraborttii (&amp;lsquo;21) Trinity College Sheng Hong Wang (&amp;lsquo;22) Apple Yuanjiang Ni (&amp;lsquo;22) Nursultan Kabylkas (&amp;lsquo;22) Nazarbayev University Minghao Xie (&amp;lsquo;24) Anyscale Lokesh N.</description>
+      <guid>//hsc.ucsc.edu/alumni/</guid>
+      <description>Doctorate Cyrus Bazeghi (&amp;lsquo;07) Microsoft Javi Martinez (&amp;lsquo;07) Qualcomm Sangeetha Nair (&amp;lsquo;11) Intel Sean Halle (&amp;lsquo;12) PostDoc/INRIA Seokjoong Kim (&amp;lsquo;12) Xilinx Xuchu Hu (&amp;lsquo;12) Cadence Design Systems David Munday (&amp;lsquo;13) Google Ehsan Ardestani (&amp;lsquo;13) Facebook Sheldon Logan (&amp;lsquo;13) Google Madan Das (&amp;lsquo;15) Mentor Graphics Alamelu Sankaranarayanan (&amp;lsquo;16) Gabriel Southern (&amp;lsquo;16) Intel Elnaz Ebrahimi (&amp;lsquo;17) Huawei Rajsaktish Sankaranarayanan (&amp;lsquo;17) Intel Riadul Islam (&amp;lsquo;17) Assistant Professor, UMBC Daphne Gorman (&amp;lsquo;18) Apple Haven Skinner (&amp;lsquo;18) BigStream Rafael Trapani Possignolo (&amp;lsquo;18) Intel Ramesh Jayaraman Akash Sridhar (&amp;lsquo;20) Qualcomm Chandranil Chakraborttii (&amp;lsquo;21) Trinity College Sheng Hong Wang (&amp;lsquo;22) Apple Yuanjiang Ni (&amp;lsquo;22) Nursultan Kabylkas (&amp;lsquo;22) Nazarbayev University Minghao Xie (&amp;lsquo;24) Anyscale Amogh Lonkar (&amp;lsquo;24) NVIDIA Lokesh N.</description>
     </item>
     <item>
       <title>Faculty</title>
-      <link>//localhost:1313/faculty/</link>
+      <link>//hsc.ucsc.edu/faculty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/faculty/</guid>
+      <guid>//hsc.ucsc.edu/faculty/</guid>
       <description></description>
     </item>
     <item>
       <title>HSC Seminar</title>
-      <link>//localhost:1313/seminar/</link>
+      <link>//hsc.ucsc.edu/seminar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/seminar/</guid>
+      <guid>//hsc.ucsc.edu/seminar/</guid>
       <description>Fall 2023 10/4/23 - Data-centric Architecture Support for Security, Yuanchao Xu (UCSC)&#xA;10/18/23 - Challenges and Opportunities to Accelerate ML Inference with Sparsity, Zhibin Xiao (Moffett.AI)&#xA;11/1/23 - Reflections on Trusting TrustHUB, Christian Krieg (TU Wien)&#xA;11/8/23 - EMISSARY: Enhanced Miss Awareness Replacement Policy for L2 Instruction Caching, Nayana Nagendra (Arm)&#xA;11/15/23 - Opportunities and Challenges for In- and Near-Memory Computing for Machine Intelligence, Siddharth Joshi (Notre Dame), @s14joshi&#xA;Spring 2023 4/12/23 - Scaling up Server Performance via In-Memory Processing, José Martínez (Cornell)</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/pubs/</link>
+      <link>//hsc.ucsc.edu/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pubs/</guid>
+      <guid>//hsc.ucsc.edu/pubs/</guid>
       <description>2024 Abel Souza, Kristiaan Pelckmans, Devarshi Ghoshal, Lavanya Ramakrishnan, Johan Tordsson, ASA - The Adaptive Scheduling Algorithm. CoRR abs/2401.09733, 2024.&#xA;Sreyes Venkatesh, Razvan Marinescu, Jason K. Eshraghian, SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks. CoRR abs/2404.19668, 2024.&#xA;Rui-Jie Zhu, Yu Zhang, Ethan Sifferman, Tyler Sheaves, Yiqiao Wang 0005, Dustin Richmond, Peng Zhou, Jason K. Eshraghian, Scalable MatMul-free Language Modeling. CoRR abs/2406.02528, 2024.&#xA;Jinyang Li 0004, Yizhuo Chen, Tomoyoshi Kimura, Tianshi Wang, Ruijie Wang 0004, Denizhan Kara, Yigong Hu, Li Wu, Walid A.</description>
     </item>
     <item>
       <title>Sponsors</title>
-      <link>//localhost:1313/sponsors/</link>
+      <link>//hsc.ucsc.edu/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/sponsors/</guid>
+      <guid>//hsc.ucsc.edu/sponsors/</guid>
       <description> </description>
     </item>
     <item>
       <title>Students</title>
-      <link>//localhost:1313/students/</link>
+      <link>//hsc.ucsc.edu/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/students/</guid>
-      <description>Current Students Doctoral Saba Jamilan Eren Dogan Jessica Dagostini Tyler Sheaves Amogh Lonkar Ruijie “Ridger” Zhu Arjun Vedantham Surim Oh Omkar Lonkar Ella Lehavi Jayaraj J Eddy Abban Aditya Bedekar Ethan Sifferman Bhawandeep Singh Farzaneh Rabiei Hadir Khan Pete Wilcox Sakshi Garg Nilufar Ferdous Jesse Cirimelli-Low Yuanpeng Liao Haoyuan Wang Alex Lee Inje Kim Bugra Önal Assel Kembay Binh Nguyen Wajid Ali Chandrashis Mazumdar Sun Tanaka Masters Andrew Barth-Yi Raphael Huang Vincent Titterton Micaela Kapp Kenneth Mayer Brian Metz Yusu Wang Phillip Marlowe Dylan Brown Sean Li Undergraduate Arshan Rashidi Jackson Friday Nicholas Gaither Carlos Rojas Caleb Lin Aditya Kumar Marco Frank Ronald Prasad Cal Boggan Andrea Arreortua Sean Manger Luis Rocha </description>
+      <guid>//hsc.ucsc.edu/students/</guid>
+      <description>Current Students Doctoral Saba Jamilan Eren Dogan Jessica Dagostini Tyler Sheaves Ruijie “Ridger” Zhu Arjun Vedantham Surim Oh Omkar Lonkar Ella Lehavi Jayaraj J Eddy Abban Aditya Bedekar Ethan Sifferman Bhawandeep Singh Farzaneh Rabiei Hadir Khan Pete Wilcox Sakshi Garg Nilufar Ferdous Jesse Cirimelli-Low Yuanpeng Liao Haoyuan Wang Alex Lee Inje Kim Bugra Önal Assel Kembay Binh Nguyen Wajid Ali Chandrashis Mazumdar Sun Tanaka Masters Andrew Barth-Yi Raphael Huang Micaela Kapp Kenneth Mayer Brian Metz Yusu Wang Phillip Marlowe Dylan Brown Sean Li Undergraduate Arshan Rashidi Jackson Friday Nicholas Gaither Carlos Rojas Caleb Lin Aditya Kumar Marco Frank Ronald Prasad Cal Boggan Andrea Arreortua Sean Manger Luis Rocha </description>
     </item>
   </channel>
 </rss>
