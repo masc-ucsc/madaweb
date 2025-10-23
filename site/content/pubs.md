@@ -1,3 +1,8 @@
++++
+title = "Publications"
+id = "single"
+bgImage = "img/trees.jpg"
++++
 ## 2025
 * Eric Vetha, Ava Darbonne, Colleen Josephson, **[Towards Microbial Fuel Cell Powered Backscatter Tags for Low-Cost In-Ground Soil Moisture Sensing.](https://doi.org/10.1145/3722572.3727929)** *ENSsys@SenSys*, 21-22, 2025.
 
