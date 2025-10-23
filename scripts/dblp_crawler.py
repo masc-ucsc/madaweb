@@ -9,7 +9,7 @@ from xml.dom import minidom
 from collections import defaultdict
 
 # Name of the authors
-professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson', 'Yuanchao Xu 0001', 'Marcelo Orenes-Vera', 'Abel Souza'}
+professors = {'Jose Renau', 'Heiner Litz', 'Matthew R.Guthaus', 'Scott Beamer', 'Dustin Richmond', 'Tyler Sorensen', 'Jason Eshraghian', 'Colleen Josephson', 'Yuanchao Xu 0001', 'Abel Souza'}
 
 
 # Get DBLP's key
@@ -60,8 +60,10 @@ def get_paper_info(paper):
         if response.status_code == 429:
             # rate limited
             # https://dblp.org/faq/Am+I+allowed+to+crawl+the+dblp+website.html
+            # print('rate limit')
             # print(response.content)
-            time.sleep(30)
+            # print(response.headers)
+            time.sleep(int(response.headers.get('Retry-After', '30')))
         else:
             break
 
